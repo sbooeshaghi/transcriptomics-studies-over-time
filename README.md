@@ -1,6 +1,6 @@
 # single-cell-studies-over-time
 
-This repository automatically generates plots showing the increase in single-cell RNA-sequencing studies over time. The plots are updated every week.
+This repository generates plots showing the increase in single-cell RNA-sequencing studies over time. The plots are automatically updated every week.
 
 Data source (please cite):  
 Valentine Svensson, Eduardo da Veiga Beltrame, & Lior Pachter  
