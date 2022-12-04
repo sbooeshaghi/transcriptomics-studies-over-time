@@ -1,4 +1,4 @@
-# single-cell-studies-over-time
+# transcriptomics-studies-over-time
 
 This repository generates plots showing the increase in single-cell RNA-sequencing studies over time. The plots are automatically updated every week. Please cite the listed data sources.
 
@@ -15,6 +15,6 @@ Moses, L., Pachter, L. Museum of spatial transcriptomics. Nat Methods 19, 534–
 
 ![image](plots/spatial_studies_over_time.png) ![image](plots/spatial_cells_over_time.png)
 
-**Combined plots** 
+**Combined plots:** 
 ![image](plots/studies_over_time.png)
 ![image](plots/cells_over_time.png)
