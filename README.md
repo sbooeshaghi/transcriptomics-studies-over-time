@@ -1,6 +1,6 @@
 # transcriptomics-studies-over-time
 
-This repository generates plots showing the increase in single-cell RNA-sequencing studies over time. The plots are automatically updated every week. Please cite the listed data sources.
+This repository generates plots showing the increase in studies using transcriptomics technologies over time. The plots are automatically updated every week. Please cite the listed data sources.
 
 **1. Single-cell RNA-sequencing**  
 Valentine Svensson, Eduardo da Veiga Beltrame, & Lior Pachter Database, Volume 2020, 2020, baaa073; doi: 10.1093/database/baaa073
