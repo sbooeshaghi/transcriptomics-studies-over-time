@@ -16,5 +16,3 @@ https://colab.research.google.com/github/pachterlab/kallistobustools/blob/master
 ![image](plots/studies_over_time.png)
 
 ![image](plots/cells_over_time.png)
-
-![image](plots/technologies_over_time.png)
