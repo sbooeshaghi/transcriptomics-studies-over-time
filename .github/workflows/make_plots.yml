@@ -4,8 +4,8 @@ on:
     branches:
     - main
   schedule: 
-    # Runs every two weeks
-    - cron: "0 0 */14 * *"
+    # Runs every week
+    - cron: "0 0 */7 * *"
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: '3.8'
         
       - uses: actions/cache@v2
         name: Configure pip caching
@@ -46,4 +46,4 @@ jobs:
           git push
       - name: Clean up
         run: |
-          rm single_cell_studies_over_time.html 
+          rm single_cell_studies_over_time.html
