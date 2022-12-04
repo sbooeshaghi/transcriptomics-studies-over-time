@@ -1,5 +1,8 @@
 name: plot_scseq_studies
 on:
+  push:
+    branches:
+    - main
   schedule: 
     # Runs every week
     - cron: "0 0 */7 * *"
